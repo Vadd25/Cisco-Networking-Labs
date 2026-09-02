@@ -23,6 +23,26 @@ Each lab includes a Cisco Packet Tracer file, documentation, and screenshots dem
 - Cisco IOS CLI
 - Network Connectivity Testing and Troubleshooting
 
+
+Featured Projects
+
+Small Enterprise Network
+
+Designed and configured a small enterprise network in Cisco Packet Tracer incorporating VLANs, inter-VLAN routing, DHCP, ACLs, port security, and secure SSH management. Tested connectivity and security controls to verify correct network operation.
+
+OSPF Dynamic Routing
+
+Configured OSPF dynamic routing between Cisco routers, established neighbor adjacencies, and verified learned routes and end-to-end connectivity using Cisco IOS troubleshooting commands.
+
+Access Control Lists (ACLs)
+
+Implemented ACLs to control traffic between network segments and verified permitted and denied traffic through connectivity testing.
+
+SSH Secure Management
+
+Configured secure SSH remote administration on Cisco networking devices using local authentication and secured VTY access.
+
+
 ## Projects
 
 ### Lab 01 — VLANs and Trunking
@@ -64,3 +84,4 @@ Designed and configured an integrated enterprise network combining VLANs, trunki
 ## Capstone Project
 
 **Lab 10 — Small Enterprise Network** integrates multiple networking and security technologies into one complete network environment and demonstrates configuration, verification, and troubleshooting skills.
+
